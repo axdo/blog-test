@@ -35,4 +35,4 @@ and so on
 * 篮球🏀
 * 唱歌 🎵
 ## 其他
-这是经常浏览的一些网站：[GitHub](https://github.com/) | [百度](www.baidu.com) | [谷歌](www.google.com)
+这是经常浏览的一些网站：[GitHub](https://github.com/) | [百度](https://www.baidu.com) | [谷歌](https://www.google.com)
